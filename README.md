@@ -9,5 +9,5 @@ Raspberry PI GPIO
 
 ## Comand Use
 ### led
-    ./main.exe led -i 2
+    ./main led -i 2
 i is gpio port
